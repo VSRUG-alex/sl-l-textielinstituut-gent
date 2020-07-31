@@ -1,0 +1,18 @@
+# Fields must be separated by vertical line, label must not have such a vertical line.
+# Comments have this hash mark in first column. 
+# coordinates in degrees from true North. 
+# line towards zenith draws a single line strictly upward.
+# label is centered on line endpoint. 
+# Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
+
+#025 | +00 | +02 | +00 | Belfort
+011 | +00 | +03 | +00 | Loveling
+#028 | +00 | +02 | +00 | St. Baafs
+068 | +00 | -02 | +00 | gebouw
+053 | +00 | -05 | +00 | Ledeganck
+100 | +00 | -02 | +00 | UZ
+155 | +00 | +20 | +00 | boom
+243 | +00 | +04 | +00 | KBC
+277 | +00 | +06 | +00 | M.Midd
+311 | +00 | -02 | +00 | brug
+
