@@ -6,9 +6,18 @@
 # Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
 
 #025 | +00 | +02 | +00 | Belfort
-011 | +00 | +03 | +00 | Loveling
+
+# 9m + 90m / 1.06km = 5.3d
+013 | +00 | +05.3 | +00 | Loveling
 #028 | +00 | +02 | +00 | St. Baafs
-068 | +00 | -02 | +00 | gebouw
+
+#23m + ~5x3m 2.4km ~= 0.9d
+034 | +00 | +00.9 | +00 | VSRUG
+
+#26m + 64m/2.43km ~= 2.1d
+037 | +00 | +02.1 | +00 | Boekentoren 
+
+068 | +00 | +02 | +00 | Textielinstituut
 053 | +00 | -05 | +00 | Ledeganck
 100 | +00 | -02 | +00 | UZ
 155 | +00 | +20 | +00 | boom
