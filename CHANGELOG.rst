@@ -3,14 +3,16 @@ Releases
 
 .. contents::
 
-master
-------
+2020-08-23: 2.0
+---
 
-- Loveling gebouw (zonder bomen)
+- panoramische foto
+- namen aangepast
+- Loveling gebouw
 - verbeteringen
 
 2020-07-31: 0.1
----------------
+---
 
 Eerste publieke versie
 
@@ -18,5 +20,4 @@ TODO
 ====
 
 - horizon verbeteren
-- foto landscape toevoegen
 
