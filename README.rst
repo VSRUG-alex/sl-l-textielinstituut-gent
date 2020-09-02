@@ -1,6 +1,6 @@
-===
+==============================================================================
 Stellarium landscape Campus Schoonmeersen (halte Textielinstituut, Voskenslaan
-===
+==============================================================================
 
 Landscape bestand voor gebruik in `Stellarium <https://stellarium.org/>`_. 
 
@@ -8,7 +8,7 @@ Landscape bestand voor gebruik in `Stellarium <https://stellarium.org/>`_.
 .. image:: img/stellarium-2.png
 
 Gebruiksaanwijzing 
----
+------------------
 
 #. ga naar de `releases <https://github.com/axd1967/sl-l-textielinstituut-gent/releases>`_ pagina
 #. download het zip bestand
