@@ -3,6 +3,12 @@ Releases
 
 .. contents::
 
+2020-09-02: 2.0.1
+-----------------
+
+- locatie/timezone
+- typos in bestanden
+
 2020-08-23: 2.0
 ---------------
 
