@@ -3,8 +3,8 @@ Releases
 
 .. contents::
 
-current
--------
+2020-12-07: 3
+-------------
 
 - aanpalende straten
 - reclamepanelen (benaderd)
