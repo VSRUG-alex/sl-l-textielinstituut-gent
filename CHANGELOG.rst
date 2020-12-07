@@ -3,6 +3,14 @@ Releases
 
 .. contents::
 
+current
+-------
+
+- aanpalende straten
+- reclamepanelen (benaderd)
+- erf MPI
+- gebouwen op de campus
+
 2020-09-02: 2.0.1
 -----------------
 
